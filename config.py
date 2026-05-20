@@ -1,0 +1,3 @@
+MODEL = "mistral"
+TEMPERATURE = 0.3
+MAX_ITERATIONS = 5
